@@ -1,0 +1,1 @@
+GET https://66da59bbf47a05d55be4998e.mockapi.io/test-vegeta/prod
